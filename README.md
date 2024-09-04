@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to uncover trends and insights that guide strategic decision-making in the startup ecosystem. By analyzing the distribution of funding across different categories, markets, and regions, the project identifies sectors with higher investment potential. It also explores the correlation between a startup's funding characteristics and its success, examining factors such as funding rounds, funding types, and geographical locations. Additionally, the project assesses the impact of economic factors on funding and proposes strategies for startups to optimize their funding journeys.
+This project aims to uncover trends and insights that guide strategic decision-making in the startup ecosystem. The project identifies sectors with higher investment potential by analyzing the distribution of funding across different categories, markets, and regions. It also explores the correlation between a startup's funding characteristics and success, examining funding rounds, funding types, and geographical locations. Additionally, the project assesses the impact of economic factors on funding and proposes strategies for startups to optimize their funding journeys.
 
 ## Objectives
 
@@ -38,7 +38,7 @@ This project aims to uncover trends and insights that guide strategic decision-m
    - Use regression models to assess the impact of economic factors on funding success.
 
 5. **Visualization**:
-   - Create visualizations to represent the distribution of funding, correlation between variables, and the impact of sector .
+   - Create visualizations to represent the distribution of funding, the correlation between variables, and the impact of different sectors.
    - Use tools like Matplotlib, or Seaborn for visualization.
 
 6. **Strategic Insights**:
