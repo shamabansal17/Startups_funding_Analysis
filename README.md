@@ -69,9 +69,4 @@ By understanding the factors that influence funding success, stakeholders can ma
 - Explore machine learning models to predict startup success based on funding characteristics.
 - Investigate the role of non-traditional funding sources like crowdfunding and venture debt.
 
-## Contributing
 
-Contributions to this project are welcome. Please fork the repository and submit a pull request for any improvements or additional analyses.
-
-
-Feel free to customize this document to fit the specific details of your project.
