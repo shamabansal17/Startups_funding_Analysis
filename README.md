@@ -1,5 +1,5 @@
 # Startup Funding Analysis
-
+![](https://github.com/shamabansal17/Startups_funding_Analysis/blob/main/startup_fund.gif.gif)
 ## Project Overview
 
 This project aims to uncover trends and insights that guide strategic decision-making in the startup ecosystem. The project identifies sectors with higher investment potential by analyzing the distribution of funding across different categories, markets, and regions. It also explores the correlation between a startup's funding characteristics and success, examining funding rounds, funding types, and geographical locations. Additionally, the project assesses the impact of economic factors on funding and proposes strategies for startups to optimize their funding journeys.
